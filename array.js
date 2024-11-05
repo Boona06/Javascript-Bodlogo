@@ -97,9 +97,3 @@
 //     }else { sondgoi++ }
 // }console.log(tegsh,sondgoi)
 
-let star = "" , box;
-const n = 5 ;
-while(n>6){
-    star=""+"*"
-    console.log(star)
-}
